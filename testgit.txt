@@ -1,1 +1,3 @@
 first test - check git status after first change 
+
+second test - check git status after second change 
